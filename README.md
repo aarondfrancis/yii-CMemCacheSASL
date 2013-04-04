@@ -3,7 +3,7 @@ yii-CMemCacheSASL
 
 A Yii memcache component with SASL support, mainly built for heroku.
 
-This component uses (ronnywang's PHPMemcacheSASL)[https://github.com/ronnywang/PHPMemcacheSASL] implementation.
+This component uses [ronnywang's PHPMemcacheSASL](https://github.com/ronnywang/PHPMemcacheSASL) implementation.
 
 
 ````
